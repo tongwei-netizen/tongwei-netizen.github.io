@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="Research on AI-generated music and cultural diversity on Spotify" />
+        <meta name="author" content="Tongwei Xu" />
+        <title>AI Music & Cultural Diversity — Tongwei Xu</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="#!">Tongwei Xu</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="resume">Resume</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://github.com/tongwei-netizen" target="_blank">GitHub</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Header-->
+        <header class="py-5 bg-image-full" style="background-image: url('https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=1600')">
+            <div class="text-center my-5">
+                <img class="img-fluid rounded-circle mb-4" src="https://avatars.githubusercontent.com/u/583231" alt="Profile photo" />
+                <h1 class="text-white fs-3 fw-bolder">Is AI Music Flattening Global Culture?</h1>
+                <p class="text-white-50 mb-0">A Computational Study of AI-Generated Music on Spotify Across 74 Countries</p>
+            </div>
+        </header>
+        <!-- Content section 1-->
+        <section class="py-5">
+            <div class="container my-5">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <h2>About This Research</h2>
+                        <p class="lead">AI-generated music is growing rapidly on streaming platforms — in some countries, AI tracks account for up to 50% of local charts.</p>
+                        <p>This project asks whether AI music is expanding access to diverse musical styles, or accelerating "cultural flattening" across countries. Using audio embeddings from the MuQ-Mulan model and data from Spotify Viral 50 charts across 74 countries, we compare the geographic distribution of AI-generated and human-made music to understand how AI reshapes the global music ecosystem.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Full-width image divider-->
+        <div class="py-5 bg-image-full" style="background-image: url('https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=1200')">
+            <div style="height: 20rem"></div>
+        </div>
+        <!-- Content section 2-->
+        <section class="py-5">
+            <div class="container my-5">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <h2>Methods & Data</h2>
+                        <p class="lead">14,800 tracks (2,045 AI-generated + 12,755 human-made) collected from Spotify Viral 50 charts across 74 countries.</p>
+                        <p>Tracks are represented as 512-dimensional audio embeddings, then analyzed using variance decomposition (η²) and permutation testing to measure how much of the variation in music style is explained by country. Text-music cosine similarity is used to identify which mood and style descriptors best characterize AI music versus human music.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Footer-->
+        <footer class="py-5 bg-dark">
+            <div class="container"><p class="m-0 text-center text-white">Copyright &copy; Tongwei Xu 2026 &nbsp;|&nbsp; <a class="text-white-50" href="https://github.com/tongwei-netizen" target="_blank">GitHub</a></p></div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
