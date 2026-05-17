@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Zyx'ara Glorblax
 
 zyx.glorblax@nebulacorp.zyx | www.zyx-glorblax.zyx | [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/tongwei-netizen)
