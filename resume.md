@@ -1,6 +1,6 @@
 # Zyx'ara Glorblax
 
-[zyx.glorblax@nebulacorp.zyx](mailto:zyx.glorblax@nebulacorp.zyx) | [www.zyx-glorblax.zyx](http://www.zyx-glorblax.zyx) | [LinkedIn](http://www.linkedin.com/in/zyxglorblax)
+zyx.glorblax@nebulacorp.zyx | www.zyx-glorblax.zyx | [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/tongwei-netizen)
 
 ![Profile Photo](https://avatars.githubusercontent.com/u/583231)
 
@@ -16,7 +16,7 @@
 
 ## Nebula Polytechnic Institute (Zorbit Prime, Outer Rim Sector 7)
 
-*[Nebula Polytechnic Institute](http://www.nebula-poly.zyx) is the foremost research university on Zorbit Prime, specializing in interstellar biology, dark matter cuisine, and applied telekinesis.*
+*Nebula Polytechnic Institute is the foremost research university on Zorbit Prime, specializing in interstellar biology, dark matter cuisine, and applied telekinesis.*
 
 **Senior Xenobiologist (Chief Slime Analyst, Tentacle Lead)** (Zorbit Year 312 - Present)
 
@@ -24,14 +24,14 @@ Led a 23-tentacle research team investigating primitive communication rituals of
 
 ### Key Achievements
 
-- Discovered that **earthlings communicate distress primarily through a platform called "Twitter"**, publishing findings in the [Journal of Baffling Carbon Behaviors](http://www.jbcb.zyx).
+- Discovered that **earthlings communicate distress primarily through a platform called "Twitter"**, publishing findings in the Journal of Baffling Carbon Behaviors.
 - Secured 4.2 million Zorbitian Gleeps in grant funding from the Galactic Council of Curiosity.
 - Mentored 8 junior researchers, all of whom grew their fifth tentacle under my supervision.
 - Reduced lab slime waste by 63% through implementation of the Glorblax Recycling Vortex.
 
 ## University of the Seven Moons (Crystalia, Moon Cluster 3)
 
-*[University of the Seven Moons](http://www.sevenmoons.edu) is a prestigious lunar institution renowned for its programs in gravitational pastry arts and quantum sociology.*
+*University of the Seven Moons is a prestigious lunar institution renowned for its programs in gravitational pastry arts and quantum sociology.*
 
 **Associate Professor of Primitive Civilizations (Visiting Blob Scholar)** (Zorbit Year 305 - 312)
 
@@ -42,11 +42,11 @@ Designed and delivered curriculum on the behavioral patterns of pre-warp civiliz
 - Published **"Why Do They Keep Looking at Small Glowing Rectangles?"**, cited over 2,000 times across the galaxy.
 - Developed an immersive simulation allowing students to experience a human grocery store — rated "mildly terrifying" by 94% of participants.
 - Increased departmental bioluminescence satisfaction scores by 38%.
-- Organized the first ever [Intergalactic Conference on Sock Usage](http://www.sock-conference.zyx), attended by delegates from 6 solar systems.
+- Organized the first ever Intergalactic Conference on Sock Usage, attended by delegates from 6 solar systems.
 
 ## Glorblax Research Station Alpha (Floating, Asteroid Belt 42-B)
 
-*[Glorblax Research Station Alpha](http://www.glorblax-research.zyx) is a family-operated research outpost established by the Glorblax clan, specializing in observational studies of beings who have not yet invented faster-than-light travel.*
+*Glorblax Research Station Alpha is a family-operated research outpost established by the Glorblax clan, specializing in observational studies of beings who have not yet invented faster-than-light travel.*
 
 **Junior Field Researcher (Intern, Tentacle Wrangler)** (Zorbit Year 299 - 305)
 
