@@ -28,7 +28,7 @@ Led a 23-tentacle research team investigating primitive communication rituals of
 
 ### Key Achievements
 
-- Discovered that **earthlings communicate distress primarily through a platform called "Twitter"**, publishing findings in the Journal of Baffling Carbon Behaviors.
+- Discovered that **earthlings communicate distress primarily through a platform called "[Twitter](https://x.com)"**, publishing findings in the Journal of Baffling Carbon Behaviors.
 - Secured 4.2 million Zorbitian Gleeps in grant funding from the Galactic Council of Curiosity.
 - Mentored 8 junior researchers, all of whom grew their fifth tentacle under my supervision.
 - Reduced lab slime waste by 63% through implementation of the Glorblax Recycling Vortex.
@@ -61,7 +61,7 @@ Conducted long-range observation missions targeting the Milky Way galaxy, loggin
 - Catalogued **47 previously undocumented human rituals**, including "waiting in line" and "taking photos of food before eating it."
 - Assisted in the construction of the station's award-winning camouflage cloud system, reducing detection incidents by 99%.
 - Maintained the station's fleet of 3 saucers with zero crash landings (previous record: 11 crashes per Zorbitian year).
-- Co-authored the landmark report *They Have Cats and the Cats Are in Charge*, reshaping galactic understanding of Earth power structures.
+- Co-authored the landmark report *They Have [Cats](https://en.wikipedia.org/wiki/Cat) and the Cats Are in Charge*, reshaping galactic understanding of Earth power structures.
 
 ---
 
